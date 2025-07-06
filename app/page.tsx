@@ -46,7 +46,7 @@ export default function LandingPage() {
                             </div>
                             <div className="flex items-center">
                                 <span className="text-green-500 mr-2">✓</span>
-                                tRPC (coming soon)
+                                tRPC
                             </div>
                             <div className="flex items-center">
                                 <span className="text-green-500 mr-2">✓</span>
